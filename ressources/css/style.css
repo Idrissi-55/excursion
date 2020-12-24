@@ -1,5 +1,5 @@
 body {
-    align-items: center;
+    text-align: center;
     background-color: black;
     margin: auto;
 }
@@ -19,6 +19,7 @@ h2 {
     font-size: 42px;
     font-weight: 300;
     padding: 30px;
+    color: white;
 }
 h3 {
     font-size: 21px;
@@ -27,12 +28,15 @@ h3 {
     padding-bottom: 15px;
 }
 h4 {
-    text-align: right;
     color: gray;
+    padding-top: 5px;
+    padding-right: 20px;
+    text-align: right;
 }
 img {
     padding: 10px 10px;
 }
-p {
-    padding: 20px;
+a {
+   font-size: 16px;
+   color: aquamarine; 
 }
